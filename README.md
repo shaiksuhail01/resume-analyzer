@@ -71,6 +71,7 @@ resume-analyzer/
 │   │   ├── App.js            # Root component
 │   │   └── index.js          # Entry point
 │   └── package.json
+├── sample_data
 ├── screenshots
 ├── README.md                 # Documentation
 ```
