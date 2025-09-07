@@ -144,35 +144,35 @@ resume-analyzer/
 
 ### 📂 Resume Upload Page  
 `UploadedPDFProcessingPage`  
-![Resume Upload](01_resume_upload_page.png)
+![Resume Upload](/screenshots/02_resume_upload_page.png)
 
 ### 📊 Resume Analysis Results (Without Modal View)  
 `05_resume_analysis_results_without_modal_view.png`  
-![Resume Analysis Results](05_resume_analysis_results_without_modal_view.png)
+![Resume Analysis Results](/screenshots/05_resume_analysis_results_without_modal_view.png)
 
 ### 📜 Past Resumes History  
 `06_past_resumes_history.png`  
-![Past Resumes History](06_past_resumes_history.png)
+![Past Resumes History](/screenshots/06_past_resumes_history.png)
 
 ### 🔍 Past Resume Details View  
 `07_past_resumes_details_view.png`  
-![Past Resume Details](07_past_resumes_details_view.png)
+![Past Resume Details](/screenshots/07a_past_resumes_details_view.png)
 
 ### ⚖️ Compare Resumes Button (Glow State)  
 `08_compare_resumes_button_glow.png`  
-![Compare Resumes Button](08_compare_resumes_button_glow.png)
+![Compare Resumes Button](/screenshots/08_compare_button_highlight.png)
 
 ### 📊 Comparison of Selected Resumes  
 `09_comparison_of_selected_resumes.png`  
-![Comparison of Resumes](09_comparison_of_selected_resumes.png)
+![Comparison of Resumes](/screenshots/09_comparison_of_selected_resumes.png)
 
 ### 🚨 Alert Message When PDF Not Selected  
 `10_alert_message_when_pdf_not_selected.png`  
-![Alert Message](10_alert_message_when_pdf_not_selected.png)
+![Alert Message](/screenshots/10_pdf_not_selected_alert.png)
 
 ### 🕒 No History of Resumes  
 `11_no_resumes_in_past_resumes.png`  
-![No Resumes History](11_no_resumes_in_past_resumes.png)
+![No Resumes History](/screenshots/11_no_history_of_resumes.png)
 
 ---
 

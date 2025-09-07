@@ -153,7 +153,7 @@ const ResumeUploader = () => {
         {/* Modal - show only first time */}
         <Dialog
           open={!!result && !showInline}
-          onClose={() => setShowInline(true)} // 👈 switch to inline after closing
+          onClose={() => setShowInline(true)} 
           maxWidth="md"
           fullWidth
         >

@@ -47,7 +47,7 @@ JSON Structure:
       .replace(/```/g, "")
       .replace(/[‘’]/g, "'")
       .replace(/[“”]/g, '"')
-      .replace(/[\u200B-\u200D\uFEFF]/g, "") // zero-width chars
+      .replace(/[\u200B-\u200D\uFEFF]/g, "") 
       .trim();
 
     // Extract JSON object using balanced braces

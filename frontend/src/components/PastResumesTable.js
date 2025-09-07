@@ -123,10 +123,10 @@ const PastResumesTable = () => {
                     </TableCell>
                     <TableCell>
   <Button
-    variant="contained" // makes it solid and visible
+    variant="contained" 
     color="primary"
     size="small"
-    sx={{ textTransform: 'none' }} // optional: keeps original text case
+    sx={{ textTransform: 'none' }} 
     onClick={() => openDetails(r.id)}
   >
     Details
