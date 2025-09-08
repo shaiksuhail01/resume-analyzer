@@ -33,7 +33,7 @@ const PastResumesTable = () => {
 
   const fetchRows = async () => {
     try {
-      const res = await axios.get('http://localhost:5000/api/resumes');
+      const res = await axios.get('https://resume-analyzer-y9pq.onrender.com/api/resumes');
       setRows(res.data);
     } catch (e) {
       console.error(e);
@@ -43,7 +43,7 @@ const PastResumesTable = () => {
 
   const openDetails = async (id) => {
     try {
-      const res = await axios.get(`http://localhost:5000/api/resumes/${id}`);
+      const res = await axios.get(`https://resume-analyzer-y9pq.onrender.com/api/resumes/${id}`);
       setSelected(res.data);
     } catch (e) {
       console.error(e);
@@ -66,7 +66,7 @@ const PastResumesTable = () => {
     if (selectedForCompare.length >= 2) return;
 
     try {
-      const res = await axios.get(`http://localhost:5000/api/resumes/${resume.id}`);
+      const res = await axios.get(`https://resume-analyzer-y9pq.onrender.com/api/resumes/${resume.id}`);
       setSelectedForCompare(prev => [...prev, res.data]);
     } catch (e) {
       console.error(e);
