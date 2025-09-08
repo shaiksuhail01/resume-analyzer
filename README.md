@@ -8,6 +8,7 @@ A web-based application that allows users to upload resumes in PDF format, analy
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://resume-analyzer-1-06qi.onrender.com)
 
+**Click the badge above to open the fully deployed Resume Analyzer web application.**
 ---
 ## 📌 Objective  
 The primary objective of this project is to design, build, and deploy a full-stack web application called **Resume Analyzer**.  
